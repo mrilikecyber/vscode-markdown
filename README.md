@@ -12,6 +12,7 @@ All you need for Markdown (keyboard shortcuts, table of contents, auto preview a
 
 **Table of Contents**
 
+
 - [Features](#features)
   - [Keyboard shortcuts](#keyboard-shortcuts)
   - [Table of contents](#table-of-contents)
